@@ -1,0 +1,1 @@
+python test.py --config ./config/pan_pp/pan_pp_r18_ctw.py --checkpoint ./checkpoints/test12/checkpoint.pth.tar
